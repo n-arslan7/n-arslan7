@@ -4,7 +4,8 @@
   
   <br/>
   <p><b>Bridging business administration with live systems engineering.</b><br> 
-  Focused on Kubernetes, automated deployments, zero-trust infrastructure, and AI governance.</p>
+  Focused on Kubernetes, automated deployments, zero-trust infrastructure, and AI governance.<br>
+  <i>🔭 Currently building autonomous UAV simulations using ROS2.</i></p>
   <br/>
 
   <!-- GitHub Stats (Gruvbox Theme) -->
@@ -45,6 +46,13 @@
   <img src="https://img.shields.io/badge/CUDA-282828?style=for-the-badge&logo=nvidia&logoColor=76B900" />
   <img src="https://img.shields.io/badge/scikit--learn-282828?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
   <img src="https://img.shields.io/badge/Pandas-282828?style=for-the-badge&logo=pandas&logoColor=150458" />
+
+  <br />
+
+  <h3>🚁 Robotics & Simulation</h3>
+  <img src="https://img.shields.io/badge/ROS2-282828?style=for-the-badge&logo=ros&logoColor=22314E" />
+  <img src="https://img.shields.io/badge/C++-282828?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Ubuntu-282828?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
 
   <br />
   <br />
