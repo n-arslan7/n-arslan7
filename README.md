@@ -5,7 +5,7 @@
   <br/>
   <p><b>Bridging business administration with live systems engineering.</b><br> 
   Focused on Kubernetes, automated deployments, zero-trust infrastructure, and AI governance.<br>
-  <i>🔭 Currently building autonomous UAV simulations using ROS2.</i></p>
+  <i>🔭 Currently building autonomous system simulations using ROS2.</i></p>
   <br/>
 
   <!-- GitHub Stats (Gruvbox Theme) -->
